@@ -1,0 +1,1 @@
+{'version': 1.0, 'installer': 'https://bakerhughes-my.sharepoint.com/:f:/p/vivek_verma/Eo-L_B2KI-JHt01LQXy7zooBL_d35tCBpm2d1W6HReG84w', 'manual': 'https://bakerhughes-my.sharepoint.com/:p:/p/vivek_verma/ETsal97OF6xDsHUy_CsR4xUBmVf1INKdObCcsdv_nFcxGw?e=gmiG4G'}
