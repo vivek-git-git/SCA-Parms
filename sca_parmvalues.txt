@@ -1,1 +1,6 @@
-{'version': 6.0, 'installer': 'https://bakerhughes-my.sharepoint.com/:f:/p/vivek_verma/EiT1_DkdTZpFpYsdAXyB3EYBG3kzrvo984FtnIJjQ9H9Hw', 'manual': 'https://bakerhughes-my.sharepoint.com/:f:/p/vivek_verma/EsJ8mq0dgLlFnoBHhUwsgBgBqxPyfyYULjq9QWUjXLQYCw'}
+{
+'version': 6.0,
+'installer': 'https://bakerhughes-my.sharepoint.com/:f:/p/vivek_verma/EiT1_DkdTZpFpYsdAXyB3EYBG3kzrvo984FtnIJjQ9H9Hw',
+'manual': 'https://bakerhughes-my.sharepoint.com/:f:/p/vivek_verma/EsJ8mq0dgLlFnoBHhUwsgBgBqxPyfyYULjq9QWUjXLQYCw', 
+'powerUsers': ['vermviv', 'tyagshi']
+}
